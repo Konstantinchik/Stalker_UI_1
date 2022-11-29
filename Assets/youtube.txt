@@ -1,0 +1,40 @@
+Система диалогов в Unity : by.Brackeys
+
+How To Play video on Ui Canvas-Unity Tutorial
+Unity Video Player with Time Scrub and Controls
+
+EASY Unity Progress Bar Tutorial + Particles! [2019]
+
+How to make a LOADING BAR in Unity
+
+C# Lists and Dictionaries in Unity! - Intermediate Scripting Tutorial
+
+UI Volume Slider using Audio Mixers | Unity Audio
+Как работать со звуком в unity | создание менеджера звука | обучение unity
+
+Unity Playmaker Dictionaries and Scriptables
+
+Unity UI Tutorial Dropdown C# Scripting
+
+Unity Resolution Tutorial | How To Set Resolution At Runtime in Unity - Unity...
+
+Динамичный курсор с анимацией - Unity3D
+
+Динамический список со скроллом. Unity3d UI (ScrollView Adapter)
+
+Unity UI - Scroll Menu Pt 4: Text Log - A scrolling, vertical list of text items.
+
+Unity 5: UI - 9.2 Working with toggle groups in scripts
+
+Unity - JSON сохранение и загрузка из файла
+
+Saving Data using JSON Serialization [Unity Tutorial]
+NuGet\Install-Package Newtonsoft.Json -Version 13.0.1    - установить с консоли PM
+
+Unity UI Tutorial Dropdown C# Scripting
+
+Unity Resolution Tutorial | How To Set Resolution At Runtime in Unity - Unity Resolution Settings
+
+
+https://translated.turbopages.org/proxy_u/en-ru.ru.67b5a8cb-638392f6-7f5ff8d3-74722d776562/https/forum.unity.com/threads/json-saving-system-loads-wrong-information.1228890/
+
